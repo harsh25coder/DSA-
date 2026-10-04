@@ -2,11 +2,15 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        int s1=(n*(n+1)/2);
-        int s2=0;
-        for(int i=0;i<nums.size();i++){
-            s2=s2+nums[i];
+        vector<int>hash(n+1,0);
+        for(int x:nums){
+            hash[x]++;
         }
-        return s1-s2;
+        for(int i=0;i<nums.size()+1;i++){
+            if(hash[i]==0){
+                return i;
+            }
+        }
+        return -1;
     }
 };
