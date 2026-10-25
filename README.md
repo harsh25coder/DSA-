@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/harsh25coder/DSA-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harsh25coder/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/harsh25coder/DSA-/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/harsh25coder/DSA-/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/harsh25coder/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/harsh25coder/DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/harsh25coder/DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/harsh25coder/DSA-/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh25coder/DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/harsh25coder/DSA-/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh25coder/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/harsh25coder/DSA-/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/harsh25coder/DSA-/tree/master/1672-richest-customer-wealth) |
