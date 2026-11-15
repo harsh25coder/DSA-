@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh25coder/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harsh25coder/DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harsh25coder/DSA-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/harsh25coder/DSA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harsh25coder/DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harsh25coder/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harsh25coder/DSA-/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/harsh25coder/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harsh25coder/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harsh25coder/DSA-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/harsh25coder/DSA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harsh25coder/DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harsh25coder/DSA-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh25coder/DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harsh25coder/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh25coder/DSA-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harsh25coder/DSA-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/harsh25coder/DSA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harsh25coder/DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harsh25coder/DSA-/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/harsh25coder/DSA-/tree/master/0905-sort-array-by-parity) |
