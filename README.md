@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harsh25coder/DSA-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/harsh25coder/DSA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harsh25coder/DSA-/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/harsh25coder/DSA-/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harsh25coder/DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harsh25coder/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/harsh25coder/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/harsh25coder/DSA-/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/harsh25coder/DSA-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harsh25coder/DSA-/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harsh25coder/DSA-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harsh25coder/DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
